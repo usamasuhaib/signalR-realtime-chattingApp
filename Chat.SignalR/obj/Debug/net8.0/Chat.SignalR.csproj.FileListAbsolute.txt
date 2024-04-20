@@ -1,0 +1,534 @@
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\appsettings.Development.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\appsettings.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.staticwebassets.runtime.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.exe
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.deps.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.runtimeconfig.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.pdb
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Humanizer.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Build.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Common.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.CodeDom.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.csproj.AssemblyReference.cache
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.AssemblyInfoInputs.cache
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.AssemblyInfo.cs
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.csproj.CoreCompileInputs.cache
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.MvcApplicationPartsAssemblyInfo.cache
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.RazorAssemblyInfo.cache
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.RazorAssemblyInfo.cs
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets.build.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets.development.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.Chat.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.build.Chat.SignalR.props
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chat.SignalR.props
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chat.SignalR.props
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets.pack.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\scopedcss\bundle\Chat.SignalR.styles.css
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\scopedcss\projectbundle\Chat.SignalR.bundle.scp.css
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.Sig.5070AFB3.Up2Date
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\refint\Chat.SignalR.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.pdb
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.genruntimeconfig.cache
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\ref\Chat.SignalR.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Azure.Core.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Azure.Identity.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Memory.Data.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.MvcApplicationPartsAssemblyInfo.cs
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\libman.json
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+F:\.NetCoreProjects\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\StackExchange.Redis.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\appsettings.Development.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\appsettings.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\libman.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.staticwebassets.runtime.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.exe
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.deps.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.runtimeconfig.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Chat.SignalR.pdb
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Azure.Core.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Azure.Identity.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Humanizer.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Build.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Common.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\StackExchange.Redis.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.CodeDom.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Memory.Data.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.csproj.AssemblyReference.cache
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.AssemblyInfoInputs.cache
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.AssemblyInfo.cs
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.csproj.CoreCompileInputs.cache
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.MvcApplicationPartsAssemblyInfo.cs
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.MvcApplicationPartsAssemblyInfo.cache
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.RazorAssemblyInfo.cache
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.RazorAssemblyInfo.cs
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets.build.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets.development.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.Chat.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.build.Chat.SignalR.props
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chat.SignalR.props
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chat.SignalR.props
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\staticwebassets.pack.json
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\scopedcss\bundle\Chat.SignalR.styles.css
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\scopedcss\projectbundle\Chat.SignalR.bundle.scp.css
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.Sig.5070AFB3.Up2Date
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\refint\Chat.SignalR.dll
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.pdb
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\Chat.SignalR.genruntimeconfig.cache
+F:\.NetCoreProjects\_Backups\with redis working\Chat.SignalR\Chat.SignalR\obj\Debug\net8.0\ref\Chat.SignalR.dll

@@ -1,0 +1,53 @@
+﻿@model List<string>
+
+
+
+<section style="background-color: ghostwhite;">
+    <div class="container py-5">
+
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-12 col-lg-12 col-xl-10">
+
+                <div class="card" id="chat1" style="border-radius: 15px;">
+                    <div class="card-header d-flex justify-content-between align-items-center p-3 bg-info text-white border-bottom-0"
+                         style="border-top-left-radius: 15px; border-top-right-radius: 15px;">
+                        <i class="fas fa-angle-left"></i>
+                        <p class="mb-0 fw-bold">Live chat</p>
+                        <i class="fas fa-times"></i>
+                    </div>
+                    <div class="card-body">
+
+
+
+                        <div id="MessageCardContainer" >
+                         
+                        </div>
+
+
+
+
+                        <div class="panel-footer">
+                            <form id="sendMessageForm" class="row">
+                                <div class="col-9">
+                                    <input type="text" class="form-control" rows="2" id="messageInput" placeholder="Say something here"></input>
+                                </div>
+                                <div class="col-3">
+                                    <button type="submit" class="btn btn-primary" id="sendButton">Send Message</button>
+
+                                </div>
+
+                            </form>
+                        </div>
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
